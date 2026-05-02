@@ -1,23 +1,49 @@
-Hello. 
-- My own OS [EquinoxOS](https://github.com/ewasion137/EquinoxOS)
-- My musical player [ZenithPlayer](https://github.com/ewasion137/ZenithPlayer)
-- My BSS resource calculator [BSS-Calculator](https://github.com/ewasion137/bss-calculator)
 
-<div> <a href="https://github.com/ewasion137" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages:</h3>
+
+# 👋 Hi, I'm Ewasion
+
+
+---
+
+## 🚀 Projects
+
+* 🧠 **EquinoxOS** — my own operating system
+  🔗 [https://github.com/ewasion137/EquinoxOS](https://github.com/ewasion137/EquinoxOS)
+
+* 🎧 **ZenithPlayer** — custom music player
+  🔗 [https://github.com/ewasion137/ZenithPlayer](https://github.com/ewasion137/ZenithPlayer)
+
+---
+
+## 🛠️ Tech & Interests
+
+* C / C++ / C#
+* Low-level programming
+* OS development
+* Reverse engineering
+* Debugging & system internals
+
+---
+
+## ☕ Support Me
+
+If you like what I do, you can support me here:
+👉 [https://ko-fi.com/ewasion](https://ko-fi.com/ewasion)
+
+---
+
+## 📊 Profile Stats
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=ewasion137&label=Profile%20views&color=0e75b6&style=flat" alt="ewasion137" />
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ewasion"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ewasion" /></a></p><br><br>
+---
 
-***
+## ⚡ About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ewasion137&label=Profile%20views&color=0e75b6&style=flat" alt="ewasion137" /> </p>
+* Building things from scratch
+* Interested in how systems *really* work under the hood
+* Always learning and experimenting
+* Sometimes use AI because im bad.
+
