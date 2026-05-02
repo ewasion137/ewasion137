@@ -4,7 +4,7 @@
 
 # 👋 Hello, I'm ewasion!
 
-I am a developer in low-level programming, system architecture, and creating seamless user experiences. I spend my time building operating systems and media tools.
+I am a developer in low-level programming, system architectures. I spend my time building operating systems and media tools.
 
 ---
 
