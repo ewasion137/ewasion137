@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=ewasion137&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=gradient&text=ewasion137&fontAlignY=50&reversal=true&fontSize=70" />
 </p>
 
 # 👋 Hello, I'm ewasion!
