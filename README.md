@@ -67,19 +67,19 @@ I spend my time building operating systems, game modifications, and media tools.
 <div align="center">
   
   <a href="https://github.com/ewasion137/EquinoxOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewasion137&repo=EquinoxOS&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="EquinoxOS" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=EquinoxOS&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="EquinoxOS" />
   </a>
   <a href="https://github.com/ewasion137/ZenithPlayer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewasion137&repo=ZenithPlayer&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ZenithPlayer" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=ZenithPlayer&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ZenithPlayer" />
   </a>
   
   <br>
 
   <a href="https://github.com/ewasion137/cremniy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewasion137&repo=cremniy&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Cremniy IDE" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=cremniy&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Cremniy IDE" />
   </a>
   <a href="https://github.com/ewasion137/Destroy-The-Planets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ewasion137&repo=Destroy-The-Planets&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Destroy The Planets" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=Destroy-The-Planets&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Destroy The Planets" />
   </a>
 
 </div>
@@ -89,8 +89,8 @@ I spend my time building operating systems, game modifications, and media tools.
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ewasion137&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Ewasion's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewasion137&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ewasion137&theme=tokyonight&hide_border=true&background=0D1117" alt="Ewasion's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ewasion137&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br>
