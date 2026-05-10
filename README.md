@@ -5,7 +5,7 @@
 
 <br>
 
-> *«I am a developer focused on low-level programming, system architectures, and making things work under the hood.»*
+> *«I am a developer focused on low-level programming, system architectures, gamedev, web-dev.»*
 
 <br>
 
@@ -56,7 +56,6 @@ I spend my time building operating systems, game modifications, and media tools.
 
 **Environment:**<br>
 <img src="https://img.shields.io/badge/Windows-292826?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-292826?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-292826?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio-292826?style=for-the-badge&logo=visualstudio&logoColor=white" />
 
@@ -77,9 +76,6 @@ I spend my time building operating systems, game modifications, and media tools.
 
   <a href="https://github.com/ewasion137/cremniy">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=cremniy&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Cremniy IDE" />
-  </a>
-  <a href="https://github.com/ewasion137/Destroy-The-Planets">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=Destroy-The-Planets&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Destroy The Planets" />
   </a>
 
 </div>
