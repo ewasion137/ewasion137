@@ -72,7 +72,7 @@ I spend my time building operating systems, game modifications, and media tools.
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=ZenithPlayer&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ZenithPlayer" />
   </a>
   <a href="https://github.com/ewasion137/HyprWin">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=cremniy&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HyprWin" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=HyprWin&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HyprWin" />
   </a>
   <a href="https://github.com/ewasion137/cremniy">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=cremniy&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Cremniy IDE" />
