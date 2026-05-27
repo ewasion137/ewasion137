@@ -65,8 +65,8 @@ I spend my time building operating systems, game modifications, and media tools.
 
 <div align="center">
   
-  <a href="https://github.com/ewasion137/EquinoxOS">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=EquinoxOS&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="EquinoxOS" />
+  <a href="https://github.com/Equinox-Collective/EquinoxOS">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Equinox-Collective&repo=EquinoxOS&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="EquinoxOS" />
   </a>
   <a href="https://github.com/ewasion137/ZenithPlayer">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ewasion137&repo=ZenithPlayer&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ZenithPlayer" />
