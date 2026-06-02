@@ -94,3 +94,5 @@ I spend my time building operating systems, game modifications, and media tools.
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinhnhat/trinhnhat/master/assets/matrix.gif" width="100%" alt="Matrix Effect">
 </div>
+
+*"Excuse me, sir, there must be someone you've confused me for..."*
